@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAc-VCJA_sREEPa_OIkFfrhyzWefLmC4kuQ&usqp=CAU)](https://khushboogoel01.github.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQAc-VCJA_sREEPa_OIkFfrhyzWefLmC4kuQ&usqp=CAU=981x245)]()
 <h1 align="center">Hi,I'm Manish</h1>
 <h3 align="center">A BE undergraduate at Netaji Subhas Institute of Technology, New Delhi. A passionate problem solver and budding web developer.</h3>
 
